@@ -3,6 +3,6 @@
 
 
 
-- 🔭 I’m currently studying on Electrical Engineering 
+-  I’m currently studying on Electrical Engineering 
 
 
