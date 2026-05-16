@@ -3,6 +3,7 @@
 
 
 
--  I’m currently studying on Electrical Engineering 
-
+-  I’m currently studying on Electrical Engineering,
+-  I like to learn things from different fields,
+-  I generally learn something by myself .
 
