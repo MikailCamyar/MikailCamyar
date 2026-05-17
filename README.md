@@ -10,4 +10,4 @@
 # Attention !
 
 Please Check My Website  First For Understanding My Github Notes Well :
-You can click on [here](mikailcamyar.com)
+You can click on [here](www.mikailcamyar.com)
